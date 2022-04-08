@@ -13,7 +13,7 @@ public class Cafetera {
 	}
 
 	public int getCapacidadActual() {
-		return capacidadActual;
+		return capacidadActual++;
 	}
 
 	public void setCapacidadMaxima(int capacidadMaxima) {
